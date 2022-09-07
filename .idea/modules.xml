@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/untitled/AVBinaryS.iml" filepath="$PROJECT_DIR$/untitled/AVBinaryS.iml" />
       <module fileurl="file://$PROJECT_DIR$/New folder.iml" filepath="$PROJECT_DIR$/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemsLeet/ProblemsLeet.iml" filepath="$PROJECT_DIR$/ProblemsLeet/ProblemsLeet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
     </modules>
   </component>
 </project>
